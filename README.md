@@ -1,1 +1,2 @@
-# A blogsite made by using RESTful routes(where we can add ,delete, update photos or comments).HTML,CSS, JavaScript, NodeJS are used and database used is MongoDB.
+# A blogsite made by using RESTful routes(where we can add ,delete, update photos or comments).
+Web Technologies used: HTML, CSS, JavaScript, Node.js &Express, MongoDB
